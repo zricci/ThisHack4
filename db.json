@@ -1,0 +1,42 @@
+{
+
+  "UPSLoc": [
+
+    
+ {
+
+   "Name" : "New Windsor",
+
+   "Address" : "139 Wembly Rd",
+
+   "City" : "New Windsor",
+
+   "State" : "NY",
+
+   "Zip Code" : 12553
+
+ },
+
+ {
+
+   "Name" : "Liberty",
+
+   "Address" : "20 Queen Mountain Rd",
+
+   "City" : "Ferndale",
+
+   "State" : "NY",
+
+   "Zip Code" : 12734
+
+ }
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
+  }
+
+}
